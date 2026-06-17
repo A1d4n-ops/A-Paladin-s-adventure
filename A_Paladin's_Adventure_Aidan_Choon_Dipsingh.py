@@ -1,4 +1,4 @@
-#RPG Continuous Game Play - Aidan Choon Dipsingh
+#A Paladin's Adventure - Aidan Choon Dipsingh
 
 #This program runs a text-based game which is based around a paladin's journey
 #and the user gets to choose how the story plays out with user input
